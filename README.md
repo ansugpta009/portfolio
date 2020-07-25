@@ -1,4 +1,0 @@
-phish
-=====
-
-for phishing
